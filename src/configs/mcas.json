@@ -1,0 +1,45 @@
+{
+    "output_file": "docs/league_results/2025/MCAS/mcas.html",
+    "title": "MCAS 2025 League Results",
+    "sections": 
+    [
+        {
+            "header": "MCAS 2025",
+            "header_level": 1
+        },
+        {
+            "header": "Teams",
+            "header_level": 2,
+            "content": "These are the teams for the MCAS 2025 season.",
+            "file": "data/league_results/2025/MCAS/teams.csv"
+        },
+        {
+            "header": "Driver Standings",
+            "header_level": 2,
+            "content": "These are the driver standings for the MCAS 2025 season.",
+            "file": "data/league_results/2025/MCAS/driver_standings.csv"
+        },
+        {
+            "header": "Race Results",
+            "header_level": 2,
+            "content": "These are the race results for the MCAS 2025 season."
+        },
+        {
+            "header": "Race 1: Circuit De La Sarthe",
+            "header_level": 3,
+            "content": "These are the results for Race 1."
+        },
+        {
+            "header": "Gr.1",
+            "header_level": 4,
+            "content": "These are the results for Group 1.",
+            "file": "data/league_results/2025/MCAS/race1A.csv"
+        },
+        {
+            "header": "Gr.3",
+            "header_level": 4,
+            "content": "These are the results for Group 3.",
+            "file": "data/league_results/2025/MCAS/race1B.csv"
+        }
+    ]
+}

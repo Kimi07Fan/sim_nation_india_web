@@ -1,0 +1,9 @@
+{
+    "configs_to_pick":
+    [
+        {
+            "League": "MCAS",
+            "JSON": "src/configs/mcas.json"
+        }
+    ]
+}

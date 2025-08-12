@@ -1,0 +1,82 @@
+{
+    "last_update_date": "10-08-2025",
+    "leagues_included":
+    [
+        {
+            "name": "Toyota GT Cup",
+            "year": 2020,
+            "races": "all"
+        },
+        {
+            "name": "Penta",
+            "year": 2021,
+            "races": "all"
+        },
+        {
+            "name": "Toyota GT Cup",
+            "year": 2021,
+            "races": "all"
+        },
+        {
+            "name": "Ode to GTS",
+            "year": 2021,
+            "races": "all"
+        },
+        {
+            "name": "Mille Miglia",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "INDGT",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "MultiClass League",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "SNI Kart Attack",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "GT3 Cup",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "Targa Cup",
+            "year": 2024,
+            "races": "all"
+        },
+        {
+            "name": "Cruise Control Cup",
+            "year": 2025,
+            "races": "all"
+        },
+        {
+            "name": "SNI Vs The World",
+            "year": 2025,
+            "races": "all"
+        },
+        {
+            "name": "GenZ Vs Millenials",
+            "year": 2025,
+            "races": "all"
+        },
+        {
+            "name": "Multiclass Apex League",
+            "year": 2025,
+            "ref": "MCAS",
+            "races": "all"
+        },
+        {
+            "name": "Porsche Cup Challenge",
+            "year": 2025,
+            "races": []
+        }
+    ]
+}
