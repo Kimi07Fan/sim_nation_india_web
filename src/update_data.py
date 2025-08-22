@@ -4,7 +4,7 @@ from utils import gen_html
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python gen_html.py <JSON configuration>")
+        print("Usage: python update_data.py <JSON configuration>")
         sys.exit(1)
 
     json_config = sys.argv[1]

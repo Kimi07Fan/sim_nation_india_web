@@ -6,7 +6,10 @@ def generate_html(config):
     outfile = open(config['output_file'], 'w')
 
     # Write the HTML header
-    outfile.write("<html><body>\n")
+    outfile.write("<html>\n<head>\n<title>\n")
+    outfile.write(f"<title>{config['title']}</title>\n")
+    outfile.write("<link rel=\"stylesheet\" href=\"styles/main.css\">\n")
+    outfile.write("</head>\n<body>\n")
     outfile.write(f"<h1>{config['title']}</h1>\n")
 
     # Write each section
